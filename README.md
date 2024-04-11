@@ -49,9 +49,7 @@ Another technique that will also be used in the three models, Callbacks end Earl
 <br>
 <br>
 <br>
-<br>
-<br>
 
-- Link to the second model
+- Link to the last model
 
 Model 3 - Transformer-(BERT)  (SOON)
