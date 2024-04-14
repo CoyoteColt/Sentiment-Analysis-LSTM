@@ -50,6 +50,8 @@ Another technique that will also be used in the three models, Callbacks end Earl
 <br>
 <br>
 
-- Link to the last model
+- Links to the last and first model
 
 Model 3 - Transformer-(BERT)  (SOON)
+
+Model 1 - <a href="https://github.com/CoyoteColt/Sentiment-Analysis-FCNN">Fully Connected Neural Network (FCNN)</a>
