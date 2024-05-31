@@ -35,8 +35,8 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374859690283093/1.png?ex=6654e1e5&is=66539065&hm=8f10b623103ea78747a2f17af2798707786446d0a3058208942e07ba8ccfeed3&" alt="Model LSTM"><br>
-<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374911154393188/2.png?ex=6654e1f2&is=66539072&hm=1da6f9056ec10f724f70f98617d88f97c246062f03ba5c822f60579ddadb3ce9&" alt="Model LSTM"><br>
+<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374859690283093/1.png?ex=665a27e5&is=6658d665&hm=4d0a67ce0acf8e5c2dd1a4e17ebdaa4256d8ab4b23d58a563edac3914944252b&" alt="Model LSTM"><br>
+<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374911154393188/2.png?ex=665a27f2&is=6658d672&hm=b23735f9879ee65b8a44c9bbf72bd51f590344bdba24888e9f751d7e87cfaaf3&" alt="Model LSTM"><br>
 <img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374932067188857/3.png?ex=6654e1f7&is=66539077&hm=48690848212d459517b855095640d39e8a8d8d9331d83e41bac56f12eeeaa5e3&" alt="Model LSTM"><br>
 
 - We were able to achieve an accuracy of 88% and it took us about 6 minutes to complete the training. Let's see how the latest architecture fares, the transformative architecture.
