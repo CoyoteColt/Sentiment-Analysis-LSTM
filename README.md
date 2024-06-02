@@ -20,7 +20,7 @@ In all three projects we will use the same database but manipulate it with diffe
 
 In this second model we will address the LSTM architecture, LSTMs (Long Short-Term Memory) are a recurrent neural network architecture designed to process sequences of data such as text and time series. They are able to remember important information for long periods of time, solve the vanishing gradient problem, and capture long-range dependencies in sequences. However, they can be complex to train and interpret, and are prone to overfitting, especially on small data sets. Despite this, they are widely used in tasks such as machine translation, sentiment analysis and time series forecasting.
 
-<img src="https://miro.medium.com/v2/resize:fit:674/1*jikKbzFXCq-IYnFZankIMg.png" alt="LSTM">
+<img src="image\1.png" alt="LSTM">
 
 ## Techniques used for data processing in the LSTM model
 
@@ -35,9 +35,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374859690283093/1.png?ex=665a27e5&is=6658d665&hm=4d0a67ce0acf8e5c2dd1a4e17ebdaa4256d8ab4b23d58a563edac3914944252b&" alt="Model LSTM"><br>
-<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374911154393188/2.png?ex=665a27f2&is=6658d672&hm=b23735f9879ee65b8a44c9bbf72bd51f590344bdba24888e9f751d7e87cfaaf3&" alt="Model LSTM"><br>
-<img src="https://cdn.discordapp.com/attachments/1244374522048679976/1244374932067188857/3.png?ex=6654e1f7&is=66539077&hm=48690848212d459517b855095640d39e8a8d8d9331d83e41bac56f12eeeaa5e3&" alt="Model LSTM"><br>
+<img src="image\2.png" alt="Model LSTM"><br>
+<img src="image\3.png" alt="Model LSTM"><br>
+<img src="image\4.png" alt="Model LSTM"><br>
 
 - We were able to achieve an accuracy of 88% and it took us about 6 minutes to complete the training. Let's see how the latest architecture fares, the transformative architecture.
 
@@ -45,7 +45,7 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## If you want to reproduce the experiment on your machine, below are the versions used
 
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244371114491252766/4.png?ex=6654de68&is=66538ce8&hm=fbedf120be4ac48b0257c8274caf3b166cf76bf0aaca0caca1371bd4b6473ce1&" alt="version"><br>
+<img src="image\version.png" alt="version"><br>
 
 <br>
 <br>
